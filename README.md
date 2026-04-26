@@ -1,22 +1,22 @@
-# Available .EXPRESS One-Word Domains (8,949)
+# Available .EXPRESS One-Word Domains (11,275)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C947%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C949%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C275%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .express one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,947-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,949 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,275 domains** on the canonical page below.
 
-**Public extract:** 8,947 rows · **Live catalog:** 8,949 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,275 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/express`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .EXPRESS one-word doma
 
 ### Files
 
-- `express.csv` — public CSV extract (8,947 rows)
-- `express.json` — public JSON extract (8,947 rows)
+- `express.csv` — public CSV extract (1,000 rows)
+- `express.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| genius.express     | available | $16.99    | $50.99        | 98             | 45     | 6      | name.com                                                  |
-| wise.express       | resell    | —         | —             | 98             | 72     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| aaa.express        | premium   | $42.90    | $42.90        | 70             | 42     | 3      | namecheap                                                 |
-| nest.express       | available | $16.99    | —             | 74             | 41     | 4      | name.com                                                  |
-| get.express        | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 27                                         |
-| water.express      | premium   | $42.90    | $42.90        | 108            | 40     | 5      | namecheap                                                 |
-| unity.express      | available | $16.99    | $50.99        | 70             | 40     | 5      | name.com                                                  |
-| prompt.express     | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 13                                         |
-| direct.express     | premium   | $123.75   | $123.75       | 104            | 39     | 6      | name.com                                                  |
-| shared.express     | available | $16.99    | $50.99        | 70             | 39     | 6      | name.com                                                  |
-| news.express       | resell    | —         | —             | 100            | 64     | 4      | Spaceship, Inc.                                           |
-| use.express        | premium   | $42.90    | $42.90        | 78             | 37     | 3      | namecheap                                                 |
-| conscious.express  | available | $16.99    | $50.99        | 89             | 38     | 9      | name.com                                                  |
-| domain.express     | resell    | —         | —             | 80             | 64     | 6      | Porkbun LLC                                               |
-| diamond.express    | premium   | $42.90    | $42.90        | 76             | 36     | 7      | namecheap                                                 |
-| risk.express       | available | $49.98    | —             | 62             | 38     | 4      | namecheap                                                 |
-| sense.express      | resell    | —         | —             | 102            | 63     | 5      | Porkbun LLC                                               |
-| technology.express | premium   | $128.70   | $128.70       | 88             | 35     | 10     | namecheap                                                 |
-| sharp.express      | available | $16.99    | $50.99        | 84             | 36     | 5      | name.com                                                  |
-| fun.express        | resell    | —         | —             | 122            | 62     | 3      | OVH SAS                                                   |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| shortcuts.express    | available | $16.99    | —             | 48             | 41     | 10     | name.com          |
+| cars.express         | resell    | —         | —             | 66             | 47     | 4      | Sav.com, LLC - 22 |
+| homes.express        | premium   | $250      | —             | 86             | 34     | 5      | name.com          |
+| matcha.express       | available | $16.99    | —             | 86             | 39     | 6      | name.com          |
+| coins.express        | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc       |
+| videos.express       | premium   | $123.75   | —             | 52             | 30     | 6      | name.com          |
+| justin.express       | available | $16.99    | —             | 58             | 38     | 7      | name.com          |
+| destination.express  | resell    | —         | —             | 90             | 25     | 11     | Sav.com, LLC - 5  |
+| photos.express       | premium   | $46.20    | $46.20        | 54             | 28     | 6      | namecheap         |
+| events.express       | available | $16.99    | —             | 68             | 37     | 6      | name.com          |
+| KFC.express          | premium   | $92.40    | $92.40        | 74             | 27     | 3      | namecheap         |
+| stories.express      | available | $16.99    | —             | 58             | 36     | 7      | name.com          |
+| loans.express        | premium   | $242      | $242          | 58             | 24     | 5      | namesilo          |
+| partners.express     | available | $16.99    | —             | 61             | 32     | 8      | name.com          |
+| webshop.express      | premium   | $46.20    | $46.20        | 76             | 22     | 8      | namecheap         |
+| spaces.express       | available | $16.99    | —             | 54             | 30     | 6      | name.com          |
+| popup.express        | available | $16.99    | —             | 84             | 29     | 6      | name.com          |
+| commonground.express | available | $16.99    | —             | 74             | 28     | 13     | name.com          |
+| backyard.express     | available | $16.99    | —             | 80             | 27     | 9      | name.com          |
+| gods.express         | available | $16.99    | —             | 72             | 27     | 4      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,947-row public sample | 8,949 live domains                               |
+| 1,000-row public sample | 11,275 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
