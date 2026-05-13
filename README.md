@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .express one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,859 domains · **Median ask:** $20.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/express`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | getup.express       | available | $16.99    | —             | 82             | 14     | 6      | name.com          |
 | popup.express       | available | $16.99    | —             | 84             | 29     | 6      | name.com          |
 | matcha.express      | available | $16.99    | —             | 86             | 39     | 6      | name.com          |
-| Adidas.express      | available | $49.98    | —             | 88             | 23     | 6      | namecheap         |
+| Adidas.express      | available | $49.98    | —             | 88             | 24     | 6      | namecheap         |
 | dogsit.express      | available | $16.99    | —             | 96             | 2      | 6      | name.com          |
 | edamame.express     | available | $16.99    | —             | 80             | 9      | 7      | name.com          |
 | leaveon.express     | available | $16.99    | —             | 80             | 1      | 8      | name.com          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
