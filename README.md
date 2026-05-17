@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .express one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,859 domains · **Median ask:** $20.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/express`  
 **Best for:** founders, investors, studios
 
@@ -67,8 +67,8 @@ print(df.head())
 | Trex.express        | available | $49.98    | —             | 80             | 24     | 5      | namecheap         |
 | girls.express       | available | $16.99    | —             | 83             | 23     | 5      | name.com          |
 | geton.express       | available | $16.99    | —             | 82             | 10     | 6      | name.com          |
-| getup.express       | available | $16.99    | —             | 82             | 14     | 6      | name.com          |
-| popup.express       | available | $16.99    | —             | 84             | 29     | 6      | name.com          |
+| getup.express       | available | $16.99    | —             | 82             | 15     | 6      | name.com          |
+| popup.express       | available | $16.99    | —             | 84             | 28     | 6      | name.com          |
 | matcha.express      | available | $16.99    | —             | 86             | 39     | 6      | name.com          |
 | Adidas.express      | available | $49.98    | —             | 88             | 24     | 6      | namecheap         |
 | dogsit.express      | available | $16.99    | —             | 96             | 2      | 6      | name.com          |
@@ -78,7 +78,7 @@ print(df.head())
 | shortcuts.express   | available | $16.99    | —             | 48             | 41     | 10     | name.com          |
 | cars.express        | resell    | —         | —             | 66             | 47     | 4      | Sav.com, LLC - 22 |
 | videos.express      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com          |
-| destination.express | resell    | —         | —             | 90             | 25     | 11     | Sav.com, LLC - 5  |
+| destination.express | resell    | —         | —             | 90             | 24     | 11     | Sav.com, LLC - 5  |
 | photos.express      | premium   | $46.20    | $46.20        | 54             | 28     | 6      | namecheap         |
 | justin.express      | available | $16.99    | —             | 58             | 38     | 7      | name.com          |
 | toys.express        | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
