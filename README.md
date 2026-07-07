@@ -1,10 +1,10 @@
-# Available .EXPRESS One-Word Domains (11,860)
+# Available .EXPRESS One-Word Domains (11,861)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C860%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C861%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .express one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,860 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,861 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,860 domains · **Median ask:** $20.32 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,861 domains · **Median ask:** $19.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/express`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/express`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EXPRESS one-word doma
 
 ### Files
 
-- `express.csv` — public CSV extract (1,000 rows)
-- `express.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `express.csv`, public CSV extract (1,000 rows)
+- `express.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| Trex.express        | available | $49.98    | —             | 80             | 24     | 5      | namecheap         |
-| girls.express       | available | $16.99    | —             | 83             | 23     | 5      | name.com          |
-| geton.express       | available | $16.99    | —             | 82             | 10     | 6      | name.com          |
-| getup.express       | available | $16.99    | —             | 82             | 15     | 6      | name.com          |
-| popup.express       | available | $16.99    | —             | 84             | 28     | 6      | name.com          |
-| matcha.express      | available | $16.99    | —             | 86             | 39     | 6      | name.com          |
-| Adidas.express      | available | $49.98    | —             | 88             | 24     | 6      | namecheap         |
-| dogsit.express      | available | $16.99    | —             | 96             | 2      | 6      | name.com          |
-| edamame.express     | available | $16.99    | —             | 80             | 9      | 7      | name.com          |
-| leaveon.express     | available | $16.99    | —             | 80             | 1      | 8      | name.com          |
-| messages.express    | available | $16.99    | —             | 80             | 16     | 8      | name.com          |
-| shortcuts.express   | available | $16.99    | —             | 48             | 41     | 10     | name.com          |
-| cars.express        | resell    | —         | —             | 66             | 47     | 4      | Sav.com, LLC - 22 |
-| videos.express      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com          |
-| destination.express | resell    | —         | —             | 90             | 24     | 11     | Sav.com, LLC - 5  |
-| photos.express      | premium   | $46.20    | $46.20        | 54             | 28     | 6      | namecheap         |
-| justin.express      | available | $16.99    | —             | 58             | 38     | 7      | name.com          |
-| toys.express        | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo          |
-| events.express      | available | $16.99    | —             | 68             | 37     | 6      | name.com          |
-| loans.express       | premium   | $242      | $242          | 58             | 24     | 5      | namesilo          |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| avon.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| any.express  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| act.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| away.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| cool.express | resell    | —         | —             | high           | low    | 4      | Automattic Inc.                                           |
+| ala.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| both.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| data.express | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| ana.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| busy.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| door.express | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC                                |
+| bag.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| cane.express | available | $16.99    | —             | medium         | low    | 4      | name.com                                                  |
+| farm.express | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                                          |
+| beg.express  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| cent.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| lock.express | resell    | —         | —             | medium         | low    | 4      | Squarespace Domains II LLC                                |
+| bud.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| chew.express | available | $16.99    | —             | medium         | low    | 4      | name.com                                                  |
+| love.express | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,860 live domains                        |
+| 1,000-row public sample | 11,861 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .express domains. The extension works best when the word implies speed, delivery, movement, access, or direct action. Names such as tips.express, geton.express, getup.express, and finals.express show the range: some feel practical and descriptive, while others lean broader and more brandable. When comparing these domains, start with phrase fit. The strongest options read naturally as a complete idea with .express. Then weigh memorability, spelling simplicity, and whether the word could create trademark friction. The median ask across this set is 20.32, so price discipline matters less than choosing a name that is instantly clear and easy to keep using.
+This list covers one-word .express domain names spanning many naming styles, from short action phrases like dogsit and toneup to established terms like sports and design. Median asking price across the set sits near $20, putting most names within reach for direct purchase rather than negotiation. The mix ranges from clearly brandable, founder-ready names to broader terms worth comparing on price and clarity before buying.
 
-- Best picks read naturally with “express”
-- Favor clear spelling and low confusion
-- Check trademark overlap before buying
-- Use price and renewal fit to narrow fast
+- 11,861 one-word .express domains available across many styles
+- Median asking price near $20 — accessible for most budgets
+- Brandable names like dogsit, letitbe, and toneup ready to own
+- Updated daily so pricing and inventory stay current
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
