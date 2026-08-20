@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .express one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,759 domains · **Median ask:** $15.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/express`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| damn.express    | available | $16.99    | $50.99        | high           | low    | 4      | name.com                                                  |
-| quiet.express   | available | $16.99    | —             | high           | low    | 5      | name.com                                                  |
-| away.express    | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
-| perfect.express | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 14                                         |
-| pardon.express  | available | $16.99    | —             | high           | low    | 6      | name.com                                                  |
-| alar.express    | available | $9.98     | $49.98        | low            | low    | 4      | namecheap                                                 |
-| any.express     | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| act.express     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| arse.express    | available | $9.98     | $49.98        | low            | low    | 4      | namecheap                                                 |
-| cool.express    | resell    | —         | —             | high           | low    | 4      | Automattic Inc.                                           |
-| ala.express     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| avon.express    | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
-| data.express    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
-| ana.express     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| door.express    | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC                                |
-| bag.express     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
-| both.express    | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
-| farm.express    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                                          |
-| beg.express     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
-| busy.express    | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| alar.express | available | $9.98     | $49.98        | low            | low    | 4      | namecheap                                                 |
+| any.express  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| act.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| arse.express | available | $9.98     | $49.98        | low            | low    | 4      | namecheap                                                 |
+| cool.express | resell    | —         | —             | high           | low    | 4      | Automattic Inc.                                           |
+| ala.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| avon.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| data.express | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| ana.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| away.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| door.express | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC                                |
+| bag.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| both.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| farm.express | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                                          |
+| beg.express  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| busy.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
+| lock.express | resell    | —         | —             | medium         | low    | 4      | Squarespace Domains II LLC                                |
+| bud.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| butt.express | available | $9.98     | $49.98        | low            | low    | 4      | namecheap                                                 |
+| love.express | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
