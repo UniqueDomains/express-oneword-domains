@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .express one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,422 domains · **Median ask:** $15.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/express`
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | ana.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | away.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
 | door.express | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC                                |
-| bag.express  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| bag.express  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
 | both.express | available | $16.99    | —             | high           | low    | 4      | name.com                                                  |
 | farm.express | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 1                                          |
 | beg.express  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

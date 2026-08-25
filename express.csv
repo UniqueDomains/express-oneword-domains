@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 d77d4ac5-e0dd-4e49-8706-d0cd86666b20,shoulders.express,available,16.99,,low,low,9,name.com,,
-a77910b0-03fb-46cb-b4ed-a78fd0e0ee9d,engineer.express,available,16.99,,high,low,8,name.com,,
+a77910b0-03fb-46cb-b4ed-a78fd0e0ee9d,engineer.express,available,9.98,49.98,medium,low,8,namecheap,,
 228f922e-bfa2-4076-95d8-4d4dd6599ab8,leisure.express,available,16.99,,high,low,7,name.com,,
 c01e5604-3567-4196-bedc-09ba93fe0697,any.express,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",09/11/2022 02:03,09/11/2026 02:03
 63df887d-d4e3-413a-abc3-15ae75efdf4c,avascular.express,available,9.98,49.98,low,low,9,namecheap,,
@@ -96,7 +96,7 @@ a95255e1-3060-4879-b891-a64f06f52d24,bahraini.express,available,9.98,49.98,low,l
 2f868c2b-f14e-4efe-9150-21e331d72b5c,albuminous.express,available,9.98,49.98,low,low,10,namecheap,,
 7bf38940-0b6e-4708-b728-74a7023d4e81,heads.express,available,16.99,,high,low,5,name.com,,
 a5d8198e-3a9e-48f2-8f2f-21a85bc83d11,argue.express,available,16.99,,medium,low,5,name.com,,
-d5271c31-d1a8-4044-90ef-de5589396591,management.express,available,16.99,,high,low,10,name.com,,
+d5271c31-d1a8-4044-90ef-de5589396591,management.express,available,9.98,49.98,medium,low,10,namecheap,,
 849dedd8-ba65-4b7c-a197-f6f27093a753,themorethemerrier.express,available,16.99,,medium,low,20,name.com,,
 99a318d5-8497-45f5-9baf-3e752a942084,avon.express,available,16.99,,high,low,4,name.com,,
 f1970137-50b8-4c31-b3cc-6d189828e48e,six.express,premium,123.75,123.75,medium,low,3,name.com,,
@@ -398,7 +398,7 @@ cacd8acd-820e-4d9d-bc3c-a9691f5a7fb9,ohio.express,available,16.99,,high,low,4,na
 b636a242-2298-4699-bcfa-ea4eaf026305,climate.express,available,16.99,,high,low,7,name.com,,
 75a28300-0869-4506-8a61-eb4f9f67ee26,office.express,available,,,high,low,6,,,
 a66e1100-7956-4637-b03b-2c45d97702fa,inhale.express,available,16.99,,high,low,6,name.com,,
-7de5c250-3b0b-474c-bf21-39e3fa801e24,bag.express,premium,78.54,78.54,high,low,3,namesilo,,
+7de5c250-3b0b-474c-bf21-39e3fa801e24,bag.express,premium,78.54,78.54,medium,low,3,namesilo,,
 4c2d7701-9725-427c-9bf1-4f00c2645d78,supernatural.express,available,16.99,,high,low,12,name.com,,
 1823e86d-ee74-42fb-bbae-2a29a3958a69,accusatory.express,available,9.98,49.98,low,low,10,namecheap,,
 9e3ea416-52be-476e-b8c3-f33a9d2c625d,blurred.express,available,16.99,,medium,low,7,name.com,,
