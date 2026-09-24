@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 d77d4ac5-e0dd-4e49-8706-d0cd86666b20,shoulders.express,available,16.99,,low,low,9,name.com,,,
-a77910b0-03fb-46cb-b4ed-a78fd0e0ee9d,engineer.express,available,12.49,39.99,medium,low,8,namesilo,,,19/09/2026 14:35
+a77910b0-03fb-46cb-b4ed-a78fd0e0ee9d,engineer.express,available,12.49,39.99,medium,low,8,namesilo,,,23/09/2026 17:26
 228f922e-bfa2-4076-95d8-4d4dd6599ab8,leisure.express,available,16.99,,high,low,7,name.com,,,
 c01e5604-3567-4196-bedc-09ba93fe0697,any.express,resell,,,medium,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",09/11/2022 02:03,09/11/2026 02:03,22/09/2026 07:02
 63df887d-d4e3-413a-abc3-15ae75efdf4c,avascular.express,available,9.98,49.98,low,low,9,namecheap,,,07/08/2026 22:19
@@ -9,7 +9,7 @@ a4f96f3b-45b8-4b00-83a1-6b5888e3bccd,giveme.express,available,16.99,,high,low,7,
 44e9a4fe-6bce-459f-8ed4-48021fea08b8,halfassed.express,available,16.99,,medium,low,10,name.com,,,
 ec47db3c-1cc2-4694-b248-281d397d85e5,norfolk.express,available,16.99,,high,low,7,name.com,,,
 e1c1ac06-ccff-46fb-af58-4cdd8ef4beb2,toorder.express,available,16.99,,medium,low,8,name.com,,,
-17c6c434-81f7-4500-b09c-408dd0918c56,treatment.express,available,16.99,,high,low,9,name.com,,,
+17c6c434-81f7-4500-b09c-408dd0918c56,treatment.express,available,12.49,39.99,medium,low,9,namesilo,,,23/09/2026 08:47
 e2bbefe4-a256-4eab-8de1-6da74793b676,lookupto.express,available,16.99,,high,low,10,name.com,,,
 6a02921b-5767-42f1-9ad8-a15ea6be3ee1,thirtysix.express,available,9.98,49.98,low,low,10,namecheap,,,
 0aa5b5ea-74a8-441b-83fa-99d40c55c5bc,cleaner.express,available,16.99,,high,low,7,name.com,,,
@@ -20,7 +20,7 @@ b5a70060-f80a-476d-8951-97597918cae1,aeschylean.express,available,9.98,49.98,low
 1346290a-9b24-4496-a7e2-c895bcf72d64,arawakan.express,available,9.98,49.98,low,low,8,namecheap,,,06/08/2026 12:29
 ef3b16e6-c015-4261-9416-9378313ee70a,alluring.express,available,12.49,39.99,medium,low,8,namesilo,,,22/09/2026 01:34
 4379a652-72b8-4fc1-a8b6-88c367535285,autoimmune.express,available,9.98,49.98,low,low,10,namecheap,,,07/08/2026 20:32
-5dd33f8c-5ef1-46b0-af2a-6de2e64da30c,confirmed.express,available,16.99,50.99,medium,low,9,name.com,,,
+5dd33f8c-5ef1-46b0-af2a-6de2e64da30c,confirmed.express,available,9.98,49.98,medium,low,9,namecheap,,,23/09/2026 19:53
 0b39f7e1-6320-4f8f-8685-8c7ed45f8d9a,withoutfail.express,available,16.99,,high,low,12,name.com,,,
 16b157f7-5a3a-43a4-98df-b36090044138,wearoff.express,available,16.99,,low,low,8,name.com,,,
 ce886205-5c31-419e-83e5-b51a93c3e7c4,happily.express,available,16.99,,high,low,7,name.com,,,
@@ -44,7 +44,7 @@ dd047a33-bb4c-476c-ad82-e1cebe19b611,sthelena.express,available,16.99,,medium,lo
 6ea211eb-83ab-4429-ba55-a41da36e0590,acellular.express,available,9.98,49.98,low,low,9,namecheap,,,
 6f9d0c72-bcb7-406f-9c10-30bc91e92477,germany.express,available,,,high,low,7,,,,
 c0b45f55-f3a8-438e-a37b-849764be1c1b,freshasarose.express,available,16.99,,medium,low,15,name.com,,,
-f2778dbd-42d9-4efd-af85-12303c16c507,creative.express,resell,,,high,medium,8,"Sav.com, LLC",05/04/2024 17:00,05/04/2027 17:00,
+f2778dbd-42d9-4efd-af85-12303c16c507,creative.express,resell,,,medium,low,8,"Sav.com, LLC",05/04/2024 17:00,05/04/2027 17:00,24/09/2026 01:39
 d58d70c7-17d8-452f-b43c-75e854cb1f9f,agonised.express,available,9.98,49.98,low,low,8,namecheap,,,
 74b94174-c82c-4fa8-972e-0556d836850f,bankholiday.express,available,16.99,,high,low,12,name.com,,,
 0c9bd8ca-a075-4b9d-8d99-31f49787f68d,backless.express,available,9.98,49.98,low,low,8,namecheap,,,08/08/2026 05:48
@@ -60,7 +60,7 @@ ee416711-2804-4e23-8869-3949037f3875,addictive.express,available,12.49,39.99,med
 440e231e-eca0-47c7-b055-ceac68c8a65f,childsexabuse.express,available,16.99,,medium,low,15,name.com,,,
 b40347f2-002d-4573-904f-6a58bb622ae0,everybit.express,available,9.98,49.98,low,low,9,namecheap,,,13/09/2026 21:02
 5ff417d1-3159-4bc5-8840-7cc551cd5b21,bahreini.express,available,9.98,49.98,low,low,8,namecheap,,,08/08/2026 08:41
-000a9501-8bc8-474b-a4b8-4abbc2ac5b7f,comedian.express,available,16.99,,high,low,8,name.com,,,
+000a9501-8bc8-474b-a4b8-4abbc2ac5b7f,comedian.express,available,12.49,39.99,medium,low,8,namesilo,,,23/09/2026 15:26
 e5cc035b-18ac-4b02-a73d-def2f2820a9e,anorexic.express,available,9.98,49.98,low,low,8,namecheap,,,
 2933db37-ae17-4948-bff0-babc00163ad6,normal.express,available,,,high,low,6,,,,
 7c0094d1-e8fa-4a42-94a6-585a7472bd36,break.express,available,12.49,39.99,low,low,5,namesilo,,,22/09/2026 17:01
@@ -72,8 +72,8 @@ dc12f071-01db-4ed0-ac08-79e1b7a3fad4,marooned.express,available,16.99,,medium,lo
 1c950503-96e6-47f2-a722-5a02070d2d38,conduction.express,available,16.99,,high,low,10,name.com,,,
 b9148793-e4fa-4a1c-8dfb-ff01447e46e9,cumulative.express,available,9.98,49.98,low,low,10,namecheap,,,
 f39ba400-2935-4117-8fc0-223da4af64d3,treelike.express,available,9.98,49.98,low,low,8,namecheap,,,06/08/2026 14:01
-88468ab1-ce10-48b6-9cb6-b56b21c31f5c,library.express,available,12.49,39.99,medium,low,7,namesilo,,,19/09/2026 14:39
-16e2ae42-3c0e-42bb-a1a8-2c228e322263,analysis.express,available,16.99,,high,low,8,name.com,,,
+88468ab1-ce10-48b6-9cb6-b56b21c31f5c,library.express,available,12.49,39.99,medium,low,7,namesilo,,,23/09/2026 17:30
+16e2ae42-3c0e-42bb-a1a8-2c228e322263,analysis.express,available,12.49,39.99,medium,low,8,namesilo,,,23/09/2026 08:36
 81312a45-d15e-4dca-8da2-a7957683763c,visualized.express,available,16.99,,high,low,10,name.com,,,
 e1b13135-ed65-446d-80c3-f8314f8d9538,anestrous.express,available,9.98,49.98,low,low,9,namecheap,,,
 80bbdd19-0f8a-4a40-aa76-f103e26c3871,affixial.express,available,9.98,49.98,low,low,8,namecheap,,,
@@ -109,7 +109,7 @@ e79dd5a7-b616-4584-8440-2d813c6c15b0,thorpe.express,available,16.99,,medium,low,
 4df2acbf-72da-4c37-b777-42d0249e5db5,amalgamate.express,available,12.49,39.99,low,low,10,namesilo,,,22/09/2026 03:01
 c9be6921-8bf7-4dbb-86ce-fdabcc869cf6,idolised.express,available,9.98,49.98,low,low,8,namecheap,,,
 0978bb7f-b63a-475b-9389-7c8af940c36b,prat.express,available,9.98,49.98,low,low,4,namecheap,,,09/08/2026 11:18
-095f5763-7566-41ad-b19e-fe48d39d974e,spiral.express,available,16.99,,high,low,6,name.com,,,
+095f5763-7566-41ad-b19e-fe48d39d974e,spiral.express,available,12.49,39.99,medium,low,6,namesilo,,,23/09/2026 14:59
 cd87d667-ad74-4e0f-a0d1-49b7e490c2d6,marvel.express,available,16.99,,high,low,6,name.com,,,
 8c8671e4-d36f-46a5-903f-1bf11f211429,callfor.express,available,16.99,,high,low,8,name.com,,,
 296ac002-89e0-486d-a425-ad122d2e4285,invitation.express,available,16.99,,high,low,10,name.com,,,
@@ -221,7 +221,7 @@ d194ee3f-0e30-429a-82cd-88cf90fa880d,granted.express,available,16.99,,high,low,7
 f582542b-1ad7-4d74-a5ac-44a3b7f8d531,airphoto.express,available,16.99,,high,low,9,name.com,,,
 1530974b-17f0-4255-b12e-41211b1b94f1,worthy.express,available,16.99,,high,low,6,name.com,,,
 3d01fec8-09ab-43e4-a181-41351c2936b2,recreationroom.express,available,16.99,,high,low,15,name.com,,,
-1561db3d-f3f1-402c-973b-5d020d0cc4a3,tears.express,available,16.99,50.99,medium,low,5,name.com,,,
+1561db3d-f3f1-402c-973b-5d020d0cc4a3,tears.express,available,9.98,49.98,low,low,5,namecheap,,,24/09/2026 02:29
 522fd7dc-88b4-4e7b-86a9-3efb546324e2,thoughtless.express,available,16.99,,medium,low,11,name.com,,,
 3679a66a-5b8c-4791-9c1b-eeb0c72a0428,ring.express,available,16.99,,medium,low,4,name.com,,,
 fd5f8679-3845-487d-a064-8f0734aee83f,butterflykeyboard.express,available,16.99,,high,low,18,name.com,,,
@@ -299,7 +299,7 @@ f9b64579-0e26-4383-b23a-837929d0e213,webbrowser.express,available,16.99,,high,lo
 14667898-b426-4d22-b236-8888dab203e8,sony.express,available,,,high,low,4,,,,
 12794f8b-7115-4f22-97f8-2dae5956ce25,surgicalmask.express,available,16.99,,high,low,13,name.com,,,
 64d82936-6c35-46a1-806a-58a12c135782,ionlyworkhere.express,available,16.99,,medium,low,16,name.com,,,
-c14ed192-b623-4ace-9e00-7e19a302f4b6,composed.express,available,16.99,50.99,high,low,8,name.com,,,
+c14ed192-b623-4ace-9e00-7e19a302f4b6,composed.express,available,9.98,49.98,medium,low,8,namecheap,,,23/09/2026 17:50
 3a222097-93ad-4462-9916-c3db7df4abd0,assorted.express,available,9.98,49.98,low,low,8,namecheap,,,07/08/2026 07:25
 91989616-b621-4d3e-befe-a684efc09e65,infront.express,available,12.49,39.99,low,low,8,namesilo,,,21/09/2026 23:30
 c40e3dfa-83ca-4cee-8478-dfd7bd989fab,campus.express,available,16.99,,high,low,6,name.com,,,
@@ -328,16 +328,16 @@ d7cff89a-2148-41ca-aad5-a33a89f08158,adynamic.express,available,9.98,49.98,low,l
 32a481fa-6ae1-4d81-a578-1d2facaa8723,outside.express,available,9.98,49.98,medium,low,7,namecheap,,,21/09/2026 23:49
 dd5eb915-bc69-4a40-b820-d09a4dc6e1e9,reception.express,available,16.99,,high,low,9,name.com,,,
 d04cfe34-2dd8-430b-9a97-e07b1a5a6fc6,archaic.express,available,9.98,49.98,low,low,7,namecheap,,,
-1470f694-2c04-4ad6-83c3-5307cdfe2e80,powerful.express,available,16.99,,high,low,8,name.com,,,
+1470f694-2c04-4ad6-83c3-5307cdfe2e80,powerful.express,available,12.49,39.99,medium,low,8,namesilo,,,23/09/2026 09:23
 98366610-d08d-43ae-b194-9be790f22cdb,annoy.express,available,16.99,,high,low,5,name.com,,,
 ec6eaddf-6e79-4cbe-bca0-d9a92e7247b6,coordinate.express,available,9.98,49.98,medium,low,10,namecheap,,,08/09/2026 03:35
-f016acf8-aff7-4d21-815c-b37b209d1e64,expert.express,premium,38.94,38.94,medium,low,6,namesilo,,,19/09/2026 12:41
+f016acf8-aff7-4d21-815c-b37b209d1e64,expert.express,premium,38.94,38.94,medium,low,6,namesilo,,,23/09/2026 15:34
 cb69c0cc-29a1-4f26-9e0f-1d8831a94fcc,plague.express,available,16.99,,high,low,6,name.com,,,
 e835459f-1b84-48b9-903f-b1de9878ea1c,onthepointof.express,available,16.99,,medium,low,15,name.com,,,
 48da45b2-527f-4b0f-85bc-12de49cb96ef,duplicate.express,available,16.99,50.99,high,low,9,name.com,,,
 6ab33b00-8839-4c64-b7f3-6c1c4625f3ac,old.express,premium,82.5,,high,low,3,name.com,,,
 d9954821-b838-473e-9bf7-47cb94d3e39b,frenchquarter.express,available,16.99,,medium,low,14,name.com,,,
-4504cce4-99e8-46e5-a1a9-4ad5adfb1a0b,coming.express,available,16.99,,high,low,6,name.com,,,
+4504cce4-99e8-46e5-a1a9-4ad5adfb1a0b,coming.express,available,9.98,49.98,medium,low,6,namecheap,,,23/09/2026 15:31
 0de8e936-81e6-40c1-a499-f836893dcf91,democracy.express,available,16.99,,high,low,9,name.com,,,
 df38581f-5634-4d9f-8969-f2da1e7e49b1,contend.express,available,16.99,,high,low,7,name.com,,,
 710deae5-1e87-45f3-a928-d701075da915,technically.express,available,9.98,49.98,low,low,11,namecheap,,,19/09/2026 04:54
@@ -370,7 +370,7 @@ befbecc5-7d57-4bfc-b1c2-6b6de0408e89,idonotknowit.express,available,16.99,,mediu
 9f9e38f8-e0ac-4729-840b-240d8ed7163d,everyday.express,available,16.99,,high,low,8,name.com,,,
 29a020f4-86e7-496c-b5ce-63b92a219db1,disconnect.express,available,16.99,,high,low,10,name.com,,,
 87d22dec-894b-48ab-bd31-da49b97fb3f1,consistently.express,available,16.99,,medium,low,12,name.com,,,
-b19fa997-1231-4570-9665-25a4b659dad0,quiet.express,available,16.99,,high,low,5,name.com,,,
+b19fa997-1231-4570-9665-25a4b659dad0,quiet.express,available,12.49,39.99,medium,low,5,namesilo,,,23/09/2026 12:30
 92448f0e-232d-41c3-844a-92758351ebe0,arse.express,available,9.98,49.98,low,low,4,namecheap,,,09/08/2026 10:35
 34f7a98f-fc74-4515-bad5-2e7da0e70052,promise.express,available,16.99,,high,low,7,name.com,,,
 6b3a1e37-80ce-47af-92fd-bad8bad23b7b,secluded.express,available,16.99,,medium,low,8,name.com,,,
@@ -379,7 +379,7 @@ bf507435-185b-4d4f-91f9-e8f252d23b0c,absolute.express,available,12.49,39.99,medi
 b052532f-e8e3-4816-be22-da07374a0fa5,highdefinition.express,available,16.99,,high,low,15,name.com,,,
 95aa7a47-dfdd-4926-afb2-b9af4361ecfc,kilometre.express,available,16.99,,high,low,9,name.com,,,
 899ecdb5-6a4b-469a-9333-cbf08f5c2483,athome.express,available,16.99,,high,low,7,name.com,,,
-d1130d77-8170-45c9-8758-44114861615d,superb.express,available,16.99,,high,low,6,name.com,,,
+d1130d77-8170-45c9-8758-44114861615d,superb.express,available,12.49,39.99,medium,low,6,namesilo,,,23/09/2026 09:28
 e4e7aaae-0817-4e2e-8475-75cc6c1457be,creatively.express,available,16.99,,medium,low,10,name.com,,,
 1f448b4b-de74-4fb9-a167-df86005629dc,bacterioid.express,available,9.98,49.98,low,low,10,namecheap,,,08/08/2026 07:17
 e24b8b06-6052-4d96-b180-08d8ba8f13c7,onthespot.express,available,16.99,,medium,low,11,name.com,,,
@@ -398,14 +398,14 @@ a66e1100-7956-4637-b03b-2c45d97702fa,inhale.express,available,16.99,,high,low,6,
 9e3ea416-52be-476e-b8c3-f33a9d2c625d,blurred.express,available,12.49,39.99,low,low,7,namesilo,,,22/09/2026 23:21
 44ff7e74-2607-47fe-a798-5dbd6529297f,welfare.express,available,9.98,49.98,medium,low,7,namecheap,,,08/09/2026 03:13
 e7756734-0912-447b-9459-f0c8390a7a54,operahouse.express,available,16.99,,high,low,11,name.com,,,
-284dcc80-3065-457a-80e0-155cc1e78eee,commons.express,available,16.99,,medium,low,7,name.com,,,
+284dcc80-3065-457a-80e0-155cc1e78eee,commons.express,available,12.49,39.99,low,low,7,namesilo,,,23/09/2026 16:05
 c60c47a3-6646-4473-b002-3872dc4ed6d5,amused.express,available,9.98,49.98,low,low,6,namecheap,,,
 a3eafbed-d03e-4d79-b25d-1bc67267d3b9,sexhair.express,available,16.99,,low,low,8,name.com,,,
 ecf085ab-b4d6-4db6-aad4-731ea43e144e,sumbody.express,available,16.99,,medium,low,7,name.com,,,
 9a54101e-63fd-4bee-bfcb-19a2e6577b91,wwwpage.express,available,16.99,,high,low,8,name.com,,,
 ab204a17-f70a-42c8-b073-3e578bae888a,behind.express,available,9.98,49.98,medium,low,6,namecheap,,,22/09/2026 18:54
-136b9efb-f12b-41e1-a8fc-5adf5a288434,seize.express,available,16.99,50.99,medium,low,5,name.com,,,
-4344b94e-dcf8-4d1a-bfa2-d3307e5bd544,confident.express,available,16.99,50.99,high,low,9,name.com,,,
+136b9efb-f12b-41e1-a8fc-5adf5a288434,seize.express,available,9.98,49.98,low,low,5,namecheap,,,23/09/2026 20:08
+4344b94e-dcf8-4d1a-bfa2-d3307e5bd544,confident.express,available,9.98,49.98,medium,low,9,namecheap,,,23/09/2026 19:37
 a9aca335-56d1-413f-9316-591ca78d8c93,dong.express,available,16.99,,medium,low,4,name.com,,,
 04ba4f59-793f-40cc-812c-40fd5eeff1e0,awaken.express,available,12.49,39.99,medium,low,6,namesilo,,,22/09/2026 14:40
 54843da7-fcc0-4d65-a082-04146baa6980,both.express,available,16.99,,high,low,4,name.com,,,
@@ -420,12 +420,12 @@ e99958f2-297e-468f-bf5f-3327b81f22d2,deskorganizer.express,available,16.99,,medi
 f1a5459c-ba35-4a78-b701-852839708172,sensual.express,available,12.49,39.99,low,low,7,namesilo,,,22/09/2026 04:34
 05aac7a7-c761-42b0-94c0-abcfd117f065,ripening.express,available,9.98,49.98,low,low,8,namecheap,,,
 0e1e1c5e-cb53-4634-b67e-ba58d1f357f1,whatittakes.express,available,16.99,,low,low,13,name.com,,,
-a3b6094f-2303-4ac6-b1c9-ca278bbb80e5,preventive.express,available,16.99,50.99,high,low,10,name.com,,,
+a3b6094f-2303-4ac6-b1c9-ca278bbb80e5,preventive.express,available,12.49,39.99,medium,low,10,namesilo,,,23/09/2026 22:24
 9ad76b50-7418-4f3f-a52a-812ab86fcb7d,sympathetic.express,available,16.99,,medium,low,11,name.com,,,
 887aca87-bc5f-4a98-9807-48c143199883,complaint.express,available,16.99,,medium,low,9,name.com,,,
 bfec0fba-16e8-4453-82ee-b896b2ec62ab,porticoed.express,available,9.98,49.98,low,low,9,namecheap,,,
 6b3cb476-133a-418c-9393-d85b7c11815c,known.express,available,16.99,,high,low,5,name.com,,,
-d9ad7007-0fdc-4b23-88f8-c803a1a5757f,covered.express,available,16.99,50.99,high,low,7,name.com,,,
+d9ad7007-0fdc-4b23-88f8-c803a1a5757f,covered.express,available,9.98,49.98,medium,low,7,namecheap,,,24/09/2026 00:50
 e33fa471-5a24-4e5b-9dfd-aa0b75f4eb17,outback.express,available,16.99,,high,low,7,name.com,,,
 1a067055-a118-45fb-8cc3-ddc1fb8d2fe4,blistering.express,available,9.98,49.98,low,low,10,namecheap,,,
 8f97a318-fadc-4d0e-bc2b-175db9f7c1e3,knowof.express,available,16.99,,medium,low,7,name.com,,,
@@ -436,7 +436,7 @@ f95b646c-20b0-4559-97f9-d4550969462b,insuranceagent.express,available,16.99,,med
 8044ae3c-7846-469b-a2a0-cdc863ba2c83,cordlesstelephone.express,available,16.99,,high,low,18,name.com,,,
 f29afafd-e762-463e-b6e0-44309094768c,affordable.express,available,9.98,49.98,medium,low,10,namecheap,,,21/09/2026 21:59
 926c699c-0bb3-480e-9b11-78b69d7e72c6,stateoftheart.express,available,16.99,,high,low,16,name.com,,,
-5284427a-98d0-4131-b9c3-d771540f79c7,parody.express,available,16.99,,high,low,6,name.com,,,
+5284427a-98d0-4131-b9c3-d771540f79c7,parody.express,available,9.98,49.98,medium,low,6,namecheap,,,23/09/2026 11:34
 d357df4d-c68e-4cae-a6ed-ece2242c6f2b,childbenefit.express,available,16.99,,medium,low,13,name.com,,,
 ac7dab7c-8f0c-4739-9a17-90fe27dfb151,diskspace.express,available,16.99,,high,low,10,name.com,,,
 3711c7a1-f926-4205-87e4-7563db413981,whatever.express,available,12.49,39.99,medium,low,8,namesilo,,,22/09/2026 06:56
@@ -515,7 +515,6 @@ a5b2a38a-b3b5-4912-80d8-d705697888eb,watson.express,available,,,high,low,6,,,,
 0aa510a0-3c2a-41ac-b258-ddebc15d6a0e,orleans.express,available,16.99,,high,low,7,name.com,,,
 9a5e0edd-22e5-4a0c-913c-0dd0f696f85b,jewelry.express,premium,118.8,118.8,high,low,7,namesilo,,,
 2975ba92-d49f-46a2-bbea-689eb512f98a,shakealeg.express,available,16.99,,low,low,11,name.com,,,
-49d27845-5580-481b-b0e5-3f4708d2bd7d,fan.express,available,,,high,high,3,,,,
 3a3d5140-dc0c-4757-a70d-295db1bc51a4,hammer.express,available,16.99,,high,low,6,name.com,,,
 5ebafc60-0444-444e-bab6-88c14f684796,jabber.express,available,16.99,,high,low,6,name.com,,,
 c549998a-aeec-44f1-af06-0d80642c8cce,apian.express,available,9.98,49.98,low,low,5,namecheap,,,05/08/2026 23:47
@@ -581,7 +580,7 @@ a18a1124-fdb3-40cd-b128-b4316aa63ecf,softwareengineer.express,available,16.99,,h
 f9d67085-1a73-4449-a7e2-efbd680972f1,resemblance.express,available,16.99,,medium,low,11,name.com,,,
 eb2f6343-419e-4220-92ae-4a86bdea10c0,countycourt.express,available,16.99,,medium,low,12,name.com,,,
 0b29a969-48cc-43f1-931f-6e4f33771fcf,tribute.express,available,16.99,,high,low,7,name.com,,,
-a02b8d51-ac1f-4512-84b3-664d00713dc3,conscious.express,available,16.99,50.99,high,low,9,name.com,,,
+a02b8d51-ac1f-4512-84b3-664d00713dc3,conscious.express,available,9.98,49.98,medium,low,9,namecheap,,,23/09/2026 20:38
 7f86c730-78b0-4be4-81f2-3808927cf2c2,shocking.express,available,16.99,50.99,medium,low,8,name.com,,,
 3b67359b-b2b9-4980-889c-1346871ba417,discipline.express,available,9.98,49.98,medium,low,10,namecheap,,,19/09/2026 11:34
 b1c324a1-6600-4e9d-b44e-77a19dab14db,motion.express,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",29/06/2023 00:09,29/06/2026 00:09,
@@ -594,16 +593,16 @@ b29def2b-92fa-4b6a-a46e-21e439252611,latinalphabet.express,available,16.99,,high
 4176abd7-87fa-41a2-89f4-f49c39f007bb,irritate.express,available,16.99,,medium,low,8,name.com,,,
 cea7d9dd-34d6-4128-af8f-ccdc017b847f,adsorbate.express,available,9.98,49.98,low,low,9,namecheap,,,
 51af7518-66fa-471c-9539-efd94a48a363,inorderto.express,available,16.99,,low,low,11,name.com,,,
-3c6f2db4-d7b9-459b-a31f-fc966e6100c5,near.express,available,16.99,,medium,low,4,name.com,,,
+3c6f2db4-d7b9-459b-a31f-fc966e6100c5,near.express,available,12.49,39.99,low,low,4,namesilo,,,23/09/2026 13:54
 28c511bd-9464-423d-aa3a-b89c34c66e71,glue.express,available,16.99,,high,low,4,name.com,,,
-44b64d7c-88fb-4880-bc07-c8d0c843447e,outlaw.express,available,16.99,50.99,medium,low,6,name.com,,,
+44b64d7c-88fb-4880-bc07-c8d0c843447e,outlaw.express,available,12.49,39.99,low,low,6,namesilo,,,24/09/2026 01:45
 0c61637f-3c42-4733-8737-f7727a00c20f,wideopen.express,available,16.99,,medium,low,9,name.com,,,
 d4b11fc4-9afb-4422-97e0-0071b167ccf9,xxxv.express,available,9.98,49.98,low,low,4,namecheap,,,
 bb70395e-f695-465e-9686-add746bf2fe2,getopen.express,available,16.99,,high,low,8,name.com,,,
 5570462b-8c17-4c38-9b60-c3b78d77d846,nervous.express,available,12.49,39.99,low,low,7,namesilo,,,21/09/2026 22:02
 8eadd53b-3f85-4fa8-be8e-6ceee6b65f15,decorous.express,available,9.98,49.98,low,low,8,namecheap,,,09/08/2026 06:21
 018ae7af-6e00-432e-afb6-2f242bb61628,wedding.express,premium,38.94,38.94,high,low,7,namesilo,,,
-e978d779-db89-434a-83c0-2087c959e173,choppy.express,available,16.99,,medium,low,6,name.com,,,
+e978d779-db89-434a-83c0-2087c959e173,choppy.express,available,12.49,39.99,low,low,6,namesilo,,,23/09/2026 14:30
 c29d3961-d7cd-4da3-b45d-f3af9b88ac8a,ellen.express,available,16.99,,high,low,5,name.com,,,
 25aedb96-cd99-4731-9c68-3e4d834174b6,swerve.express,available,16.99,,high,low,6,name.com,,,
 20c732da-c662-46eb-8a96-9eb20b332f67,include.express,available,16.99,,high,low,7,name.com,,,
@@ -660,7 +659,8 @@ a3a704fd-b05a-4ab2-ac75-934edbac0f45,taipei.express,resell,,,high,low,6,"Spacesh
 c368d862-bdac-46af-82de-41c85e68719e,accoutered.express,available,9.98,49.98,low,low,10,namecheap,,,
 5b868eb0-98b6-4c67-bfab-b6c99ac3b86f,optionally.express,available,16.99,,medium,low,10,name.com,,,
 ca43e5ab-c716-410a-8f0d-601325233d06,vacuum.express,available,16.99,,high,low,6,name.com,,,
-97cbc73d-b0be-46d4-a8dd-3506f962c3ca,cool.express,resell,,,high,low,4,Automattic Inc.,27/07/2022 13:15,27/07/2028 13:15,
+97cbc73d-b0be-46d4-a8dd-3506f962c3ca,cool.express,resell,,,medium,low,4,Automattic Inc.,27/07/2022 13:15,27/07/2028 13:15,23/09/2026 23:02
+e159b7c3-6588-43b6-926a-99f8dcdce8d3,central.express,resell,,,low,low,7,"Sav.com, LLC - 41",08/05/2025 15:15,08/05/2027 15:15,23/09/2026 12:46
 e961a86d-768b-474f-b09b-4e30cdd638d1,philanthropic.express,available,16.99,,high,low,13,name.com,,,
 1a8ad42a-b8bc-46f3-b71d-18c3ac9b2df3,cleaver.express,available,16.99,,medium,low,7,name.com,,,
 290d6c45-3a5e-4e5d-8858-90a9f677d77c,attheworst.express,available,16.99,,medium,low,12,name.com,,,
@@ -682,8 +682,8 @@ c931c2b3-0e24-47c6-89ed-4cf13f055296,disregarded.express,available,16.99,,medium
 372aba87-b0ec-41ef-b962-f1a9377280c8,mobiletelephone.express,available,16.99,,high,low,16,name.com,,,
 c6a9b946-73af-4dae-87fc-64fc6f0360ab,mom.express,premium,78.54,78.54,high,low,3,namesilo,,,
 c809ba7f-b60b-4154-a849-9af9e976f942,strange.express,available,16.99,,medium,low,7,name.com,,,
-f1145a50-7a06-4022-bb5b-776324c65062,cheap.express,premium,78.54,78.54,high,low,5,namesilo,,,
-fbad35cc-1304-4d81-b69f-5955ba28d8eb,competent.express,available,16.99,50.99,high,low,9,name.com,,,
+f1145a50-7a06-4022-bb5b-776324c65062,cheap.express,premium,78.54,78.54,low,low,5,namesilo,,,23/09/2026 11:03
+fbad35cc-1304-4d81-b69f-5955ba28d8eb,competent.express,available,12.49,39.99,medium,low,9,namesilo,,,23/09/2026 17:16
 d8e0be0d-2e53-43a4-8278-e99c1091817c,furthest.express,available,16.99,,medium,low,8,name.com,,,
 a55342d9-fb38-4728-b108-3ed8c172913c,argentous.express,available,9.98,49.98,low,low,9,namecheap,,,06/08/2026 18:16
 f797b4ad-1070-4e5e-83fb-9cc475b1dd6b,ancestral.express,available,9.98,49.98,low,low,9,namecheap,,,
@@ -700,7 +700,7 @@ a5a1941a-a760-428f-bb4c-e6bf69da7613,nimble.express,resell,,,medium,low,6,"GoDad
 07c82558-82df-42e4-9f51-404d1a724c76,costofliving.express,available,16.99,,medium,low,14,name.com,,,
 a15776f5-dcf8-4a28-ae45-302ba6f1fca1,arable.express,available,9.98,49.98,low,low,6,namecheap,,,06/08/2026 11:14
 7fdc8bf0-b6bc-4ed6-8ffc-3e53dc38c7b5,germanempire.express,available,16.99,,medium,low,13,name.com,,,
-7185f74b-efcc-46f3-a155-c635dfc613df,soil.express,available,16.99,50.99,high,low,4,name.com,,,
+7185f74b-efcc-46f3-a155-c635dfc613df,soil.express,available,9.98,49.98,low,low,4,namecheap,,,24/09/2026 02:55
 f5ce0a4e-ae3d-4f16-a585-90d831a63818,belgian.express,available,9.98,49.98,low,low,7,namecheap,,,09/08/2026 12:51
 b1cf7a8b-f995-4016-bf3a-17dfb29a4d1a,execution.express,available,16.99,,medium,low,9,name.com,,,
 1787a6d2-1c5b-4eb8-bee5-5e8139720913,household.express,available,16.99,,high,low,9,name.com,,,
@@ -744,7 +744,7 @@ e80c9266-4736-45f0-8bdb-1875137619f7,waitingroom.express,available,16.99,,high,l
 3c160bdd-d45b-4f32-87fb-e36d1712dc41,westcoast.express,available,16.99,,medium,low,10,name.com,,,
 503cb4b7-1d38-4e74-aff4-c93a577993cb,protective.express,available,16.99,,high,low,10,name.com,,,
 60f86d23-a80b-46ab-92dc-f5a70ffef8df,seeyoulater.express,available,16.99,,low,low,13,name.com,,,
-e62d7ac6-6076-494f-b9ec-2b6c4c3af38a,defend.express,available,16.99,,high,low,6,name.com,,,
+e62d7ac6-6076-494f-b9ec-2b6c4c3af38a,defend.express,available,12.49,39.99,medium,low,6,namesilo,,,23/09/2026 13:40
 27d38c19-db86-4458-a094-cf3baecdac54,armillary.express,available,9.98,49.98,low,low,9,namecheap,,,06/08/2026 19:44
 5d420c1e-d14d-4fbd-a898-99a3723208fd,tonguesushi.express,available,16.99,,low,low,12,name.com,,,
 c89718ed-4356-460b-8b79-9d8388ecb937,glove.express,available,16.99,,high,low,5,name.com,,,
@@ -803,8 +803,8 @@ b7214e44-d62c-4e02-9a01-8842161c072d,uphill.express,available,9.98,49.98,low,low
 a237faf7-5c0c-4d71-a801-9a366ddb50b5,specialized.express,available,16.99,,medium,low,11,name.com,,,
 885e46c8-28a9-4bc4-aa0d-d3fb0dfc1e8a,upset.express,available,16.99,50.99,high,low,5,name.com,,,
 e292622e-f3d5-4d30-ac4a-949506c742e9,retreat.express,available,16.99,,high,low,7,name.com,,,
-f71507d4-e8e8-47e5-a54a-b38fd3e7467c,busy.express,available,16.99,,high,low,4,name.com,,,
-236e7f7b-1d15-4daf-a983-b403fa863d0a,mysterious.express,available,16.99,50.99,medium,low,10,name.com,,,
+f71507d4-e8e8-47e5-a54a-b38fd3e7467c,busy.express,available,12.49,39.99,medium,low,4,namesilo,,,23/09/2026 12:11
+236e7f7b-1d15-4daf-a983-b403fa863d0a,mysterious.express,available,12.49,39.99,low,low,10,namesilo,,,24/09/2026 03:42
 4affcbd3-d249-4569-b8d0-c76b7b3c8a12,velvet.express,available,16.99,,high,low,6,name.com,,,
 f6437aad-8451-4f5a-bd8e-37b6dd764b47,ricevinegar.express,available,16.99,,low,low,12,name.com,,,
 ed0af4cf-58d7-4ee3-98ea-208b2ee1cae0,plumpfor.express,available,9.98,49.98,low,low,9,namecheap,,,08/08/2026 05:22
@@ -825,8 +825,8 @@ da24578f-d2e1-4c9b-92f2-bcdd5cc71aa3,pretence.express,available,16.99,,medium,lo
 a2da9495-c6f7-43dd-8834-68e6fcffb42a,chirping.express,available,16.99,,high,low,8,name.com,,,
 6f588828-9a6e-4463-b4b2-cc5583947a6c,stockholm.express,available,16.99,,high,low,9,name.com,,,
 ae58109f-2329-4b26-8e1c-36ca45310256,teamwork.express,available,16.99,,high,low,8,name.com,,,
-5a36daac-2b51-4c83-a0cf-f75690bfa607,dirty.express,available,16.99,50.99,high,low,5,name.com,,,
-b7aaaf27-e4d3-41d7-b616-0299cfc7df35,odd.express,premium,42.9,42.9,high,low,3,namecheap,,,
+5a36daac-2b51-4c83-a0cf-f75690bfa607,dirty.express,available,9.98,49.98,low,low,5,namecheap,,,23/09/2026 21:45
+b7aaaf27-e4d3-41d7-b616-0299cfc7df35,odd.express,premium,38.94,38.94,low,low,3,namesilo,,,24/09/2026 03:59
 4aaa85ad-ca22-46a2-b83d-a3e72dfb3420,accustomed.express,available,12.49,39.99,medium,low,10,namesilo,,,21/09/2026 16:02
 a91fed00-d072-49ac-afe4-ead64f4efad7,inreturn.express,available,16.99,,medium,low,9,name.com,,,
 751e8a66-27cd-4091-ad81-de4412a5f9db,bastardly.express,available,9.98,49.98,low,low,9,namecheap,,,08/08/2026 23:53
@@ -839,14 +839,14 @@ a00f2d4c-a98d-4dda-a2a8-6febf890cf56,lens.express,available,,,medium,low,4,,,,
 fb6764bb-c1cc-4eac-8b07-6242724e787a,walkietalkie.express,available,16.99,,high,low,13,name.com,,,
 3d317db5-3872-483c-857b-3a2ced7fa5f6,few.express,premium,38.94,38.94,high,low,3,namesilo,,,
 2ed7a0bc-0e30-48bb-8de8-10116857658f,deadline.express,available,16.99,,high,low,8,name.com,,,
-f9ee3bec-2e75-45a3-a7bc-bdab745fa2ec,mark.express,resell,,,medium,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",09/03/2021 08:15,09/03/2027 08:15,
-cda36c29-4200-4f1a-86c3-e3c8a00cce84,computer.express,resell,,,medium,low,8,"Sav.com, LLC - 45",12/08/2025 15:15,12/08/2027 15:15,19/09/2026 07:18
+f9ee3bec-2e75-45a3-a7bc-bdab745fa2ec,mark.express,resell,,,low,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",09/03/2021 08:15,09/03/2027 08:15,24/09/2026 01:59
+cda36c29-4200-4f1a-86c3-e3c8a00cce84,computer.express,resell,,,medium,low,8,"Sav.com, LLC - 45",12/08/2025 15:15,12/08/2027 15:15,23/09/2026 09:10
 16e8751e-432d-48d0-8c2c-be190214bea9,abortive.express,available,9.98,49.98,low,low,8,namecheap,,,
 8f248b48-3273-4cdc-88b9-0ba6004841e7,nonplused.express,available,9.98,49.98,low,low,9,namecheap,,,07/08/2026 10:43
 2e99996f-f493-41bc-a2a3-95af857b58ff,slight.express,available,16.99,,medium,low,6,name.com,,,
 40c6d501-dca7-4227-b7b1-e23028f78c59,healing.express,available,16.99,,high,low,7,name.com,,,
 28ecff9a-e820-4c89-84c5-ff603f3e0514,romannumerals.express,available,16.99,,low,low,14,name.com,,,
-f96d2c14-4ea1-4ab2-b84f-010c3ad82fd8,player.express,available,9.98,49.98,low,low,6,namecheap,,,19/09/2026 09:54
+f96d2c14-4ea1-4ab2-b84f-010c3ad82fd8,player.express,available,12.49,39.99,low,low,6,namesilo,,,23/09/2026 07:45
 e8150b14-cd62-4598-b37e-0aff0c3b91fa,onethird.express,available,9.98,49.98,low,low,9,namecheap,,,11/09/2026 13:44
 b112df3c-6c56-44d5-843f-dc53daec0f97,copewith.express,available,16.99,,high,low,9,name.com,,,
 92d5d9b3-2cd4-4cf0-a417-1185e2cff746,nobudy.express,available,16.99,,medium,low,6,name.com,,,
@@ -855,7 +855,7 @@ b112df3c-6c56-44d5-843f-dc53daec0f97,copewith.express,available,16.99,,high,low,
 ac97575e-23e7-42d0-a23d-94c54964f158,windowseat.express,available,16.99,,high,low,11,name.com,,,
 695eded9-da98-4d4d-a8ce-ef6d3ef9c9c1,softly.express,available,16.99,,medium,low,6,name.com,,,
 d06f5a3a-8fd4-495d-a5e2-fe31ecd70693,signup.express,available,16.99,,high,low,7,name.com,,,
-1d7bdf24-11e3-490c-86fc-a883348e2260,compound.express,available,16.99,50.99,high,low,8,name.com,,,
+1d7bdf24-11e3-490c-86fc-a883348e2260,compound.express,available,9.98,49.98,medium,low,8,namecheap,,,23/09/2026 17:56
 da9bb67b-7e9e-42f5-9a18-6d2eabdfe528,thiscoming.express,available,16.99,,low,low,11,name.com,,,
 a07f1559-ecc2-4076-870c-5b75a6930116,climbable.express,available,9.98,49.98,low,low,9,namecheap,,,07/08/2026 00:10
 556a3335-96d8-4e12-8839-2216e92078ca,beefy.express,available,9.98,49.98,low,low,5,namecheap,,,09/08/2026 07:49
@@ -868,7 +868,7 @@ f9b00ca0-7587-4bc7-8ab5-d7f59a60e03c,intoodeep.express,available,16.99,,medium,l
 072febc3-437e-4cbc-8fe1-ac78158b1954,blueraspberry.express,available,16.99,,high,low,14,name.com,,,
 f73748fe-38da-486d-8904-c030f47a287b,bantam.express,available,9.98,49.98,low,low,6,namecheap,,,08/08/2026 14:01
 00ece082-be83-4e2f-b699-40ce96f939c5,forgiving.express,available,9.98,49.98,medium,low,9,namecheap,,,21/09/2026 14:52
-ed12fe00-e767-4809-b68d-cc34a7745953,commercial.express,resell,,,medium,low,10,Dynadot Inc,16/03/2020 06:07,16/03/2027 06:07,19/09/2026 10:28
+ed12fe00-e767-4809-b68d-cc34a7745953,commercial.express,resell,,,medium,low,10,Dynadot Inc,16/03/2020 06:07,16/03/2027 06:07,23/09/2026 07:53
 e56af038-a6aa-4145-ab74-c4571dce9455,conquer.express,available,16.99,,high,low,7,name.com,,,
 e294c733-017b-4448-8b8a-119e318be352,child.express,available,16.99,,high,low,5,name.com,,,
 77b901ae-e6f8-4963-880e-cdc24944a6b9,eyesight.express,available,16.99,,medium,low,9,name.com,,,
@@ -897,7 +897,7 @@ ff82ce52-64f1-47f2-908d-fc5329ecba98,anorectic.express,available,9.98,49.98,low,
 6b234a11-4412-41f9-8d82-9e113646e9a5,evenif.express,available,16.99,,medium,low,7,name.com,,,
 f21c01dd-da97-4934-a79d-914f14a74bfc,pretended.express,available,9.98,49.98,low,low,9,namecheap,,,07/08/2026 08:01
 1244403e-c354-469e-929a-d159f6b18c76,dismiss.express,available,16.99,,high,low,7,name.com,,,
-d007c845-69a8-41cf-9d9c-dab80d98f706,corrective.express,available,16.99,50.99,high,low,10,name.com,,,
+d007c845-69a8-41cf-9d9c-dab80d98f706,corrective.express,available,12.49,39.99,medium,low,10,namesilo,,,23/09/2026 23:46
 81e4edcc-4e11-4a5d-850f-730dbd6b58fb,winterhaven.express,available,16.99,,low,low,12,name.com,,,
 8e309040-3452-49fc-bf24-e09f2d3e80d8,agrologic.express,available,9.98,49.98,low,low,9,namecheap,,,
 b4155c0f-e8da-480e-9d65-5f852525ef09,evenchance.express,available,16.99,,high,low,11,name.com,,,
@@ -908,7 +908,7 @@ b4155c0f-e8da-480e-9d65-5f852525ef09,evenchance.express,available,16.99,,high,lo
 daae5b1b-46d5-4f81-b687-1d4b55f95216,adjuvant.express,available,9.98,49.98,low,low,8,namecheap,,,
 d3a270de-f6df-43a4-95ec-42cb55f9578c,slobabout.express,available,16.99,,low,low,10,name.com,,,
 b220503d-477d-467f-9690-34e6d2121703,rosegold.express,available,16.99,,medium,low,9,name.com,,,
-ca1daeb5-ae79-41d7-b3a4-2865ffa76ea0,asset.express,resell,,,low,low,5,"Sav.com, LLC",15/08/2025 00:16,15/08/2027 00:16,19/09/2026 04:01
+ca1daeb5-ae79-41d7-b3a4-2865ffa76ea0,asset.express,resell,,,low,low,5,"Sav.com, LLC",15/08/2025 00:16,15/08/2027 00:16,23/09/2026 06:32
 409c82f1-912b-43f2-bf6e-0f8dd7d89305,atthecorner.express,available,16.99,,medium,low,13,name.com,,,
 2540bb1d-8be8-4748-9b63-6f0a205aeffd,solicit.express,available,16.99,,high,low,7,name.com,,,
 925c8fa4-9439-4843-81b2-efbc0ce1ffe6,outofdate.express,available,16.99,,low,low,11,name.com,,,
@@ -949,7 +949,7 @@ ad93c248-c84b-430b-bcb4-b4ce64325beb,butcher.express,available,16.99,,medium,low
 f42c331d-e466-44c2-9d82-d26e9d4dd291,tohell.express,available,16.99,,low,low,7,name.com,,,
 c9604199-0ed4-441a-8065-82b8036556b4,tourist.express,available,16.99,,high,low,7,name.com,,,
 d46d7f3a-1dab-4533-9bed-a79901e4662f,ole.express,premium,38.94,38.94,high,low,3,namesilo,,,
-a0f4099f-6671-4812-87fe-34c06276eb49,middle.express,available,16.99,,high,low,6,name.com,,,
+a0f4099f-6671-4812-87fe-34c06276eb49,middle.express,available,12.49,39.99,medium,low,6,namesilo,,,23/09/2026 13:24
 d79dd00d-72bd-4a57-9d80-aca2862d50f8,mature.express,available,16.99,,high,low,6,name.com,,,
 81f0abb1-2d91-45bb-9b96-04170aa9ea25,resolution.express,available,16.99,,high,low,10,name.com,,,
 a3b05051-1bdb-4f10-88d3-178d981bc5a2,cleveland.express,available,16.99,,medium,low,9,name.com,,,
