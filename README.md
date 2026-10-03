@@ -1,10 +1,10 @@
-# Available .EXPRESS One-Word Domains (31,429)
+# Available .EXPRESS One-Word Domains (33,684)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C429%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C684%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .express one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,429 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,684 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,429 domains · **Median ask:** $14.29 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 33,684 domains · **Median ask:** $14.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/express`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | alma.express  | available | $12.49    | $39.99        | high           | medium | 4      | namesilo                   |
 | blog.express  | resell    | —         | —             | high           | medium | 4      | —                          |
 | bph.express   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap                  |
-| asha.express  | available | $12.49    | $39.99        | high           | low    | 4      | namesilo                   |
+| andi.express  | available | $30.20    | $30.20        | high           | low    | 4      | cloudflare                 |
 | byte.express  | resell    | —         | —             | high           | medium | 4      | Edomains LLC               |
 | cbe.express   | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship                  |
-| bert.express  | available | $12.49    | $39.99        | high           | low    | 4      | namesilo                   |
+| asha.express  | available | $12.49    | $39.99        | high           | low    | 4      | namesilo                   |
 | pack.express  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC               |
 | cca.express   | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                  |
-| biro.express  | available | $12.49    | $39.99        | medium         | low    | 4      | namesilo                   |
+| aust.express  | available | $11.50    | —             | high           | low    | 4      | unstoppable                |
 | wish.express  | resell    | —         | —             | high           | low    | 4      | Automattic Inc.            |
 | chs.express   | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot                    |
-| bohr.express  | available | $9        | $31.25        | medium         | low    | 4      | spaceship                  |
+| bert.express  | available | $12.49    | $39.99        | high           | low    | 4      | namesilo                   |
 | floor.express | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,429 live domains                        |
+| 1,000-row public sample | 33,684 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXPRESS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
